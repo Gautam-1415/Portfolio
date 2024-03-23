@@ -1,8 +1,8 @@
 @font-face{
     font-family: 'boston angel';
-  src: local('boston angel'), url('/boston angel/Boston\ Angel\ Regular.otf') format('woff2');
+  src: local('boston angel'), url('/boston angel/Boston\ Angel\ Regular.otf') format('woff');
   font-family:"horizon" ;
-  src: local('horizon'), url('/horizon/horizon_outlined.otf') format('woff2');
+  src: local('horizon'), url('/horizon/horizon_outlined.otf') format('woff');
 
 }
 body{
